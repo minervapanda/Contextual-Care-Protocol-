@@ -1,0 +1,12 @@
+disease_id,disease_name,lethality,Tree Name
+1,Anemia,1,/home/yash/Dropbox/GE/Metadata/anemia_ok.txt
+2,Gestational Diabetes Mellitus,2,/home/yash/Dropbox/GE/Metadata/gd.txt
+3,Hypertension,,
+3,High Blood Pressure,,
+4,Preeclampsia,,
+5,Depression,,
+6,Urinary Tract Infection,,
+7,Diabetes,,
+8,Down Syndrome,,
+9,Cystic Fibrosis,,
+10,Sick Cell Disease,,

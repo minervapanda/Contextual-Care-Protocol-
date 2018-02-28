@@ -1,0 +1,5 @@
+library(readr)
+main_table <- read_csv("C:/Users/Ali/Dropbox/GE/Dataset/main_table.csv")
+library(ggplot2)
+ggplot(data=main_table) + geom_point(aes(bmi,trimester,color=wid),size=3) + labs( title = "BMI vs Trimester Plot")
+ggplot(data=main_table) + geom_point(aes(age,bmi,color=wid),size=3) + labs( title = "Age vs BMI Plot")
